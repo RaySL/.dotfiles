@@ -1,0 +1,44 @@
+# A list of keys is in /usr/include/X11/keysym.h and in
+# /usr/include/X11/keysymdef.h
+# The XK_ is not needed.
+#
+# List of modifier:
+#   Release, Control, Shift, Mod1 (Alt), Mod2 (NumLock),
+#   Mod3 (CapsLock), Mod4, Mod5 (Scroll).
+#
+
+# The release modifier is not a standard X modifier, but you can
+# use it if you want to catch release events instead of press events
+
+# By defaults, xbindkeys does not pay attention with the modifiers
+# NumLock, CapsLock and ScrollLock.
+# Uncomment the lines above if you want to pay attention to them.
+
+#keystate_numlock = enable
+#keystate_capslock = enable
+#keystate_scrolllock= enable
+#    m:0x40 + c:21
+    
+
+"amixer sset Master 5%+ unmute"
+  XF86AudioRaiseVolume
+"amixer sset Master 5%+ unmute"
+  Mod4 + equal
+
+"amixer sset Master 5%- unmute"
+  XF86AudioLowerVolume
+"amixer sset Master 5%- unmute"
+  Mod4 + minus
+
+"amixer sset Master toggle"
+	XF86AudioMute
+"amixer sset Master toggle"
+  Mod4 + backslash
+
+"xbacklight -inc 10"
+  XF86MonBrightnessUp
+
+"xbacklight -dec 10"
+  XF86MonBrightnessDown
+
+
