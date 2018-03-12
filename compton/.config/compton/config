@@ -56,7 +56,7 @@ glx-swap-method = "undefined";
 #################################
 
 # Enabled client-side shadows on windows.
-shadow = true;
+shadow = false;
 # Don't draw shadows on DND windows.
 no-dnd-shadow = true;
 # Avoid drawing shadows on dock/panel windows.
@@ -110,14 +110,14 @@ shadow-ignore-shaped = true;
 #################################
 
 menu-opacity = 1;
-inactive-opacity = 0.85;
+inactive-opacity = 0.65;
 active-opacity = 1;
 frame-opacity = 1;
 inactive-opacity-override = false;
 alpha-step = 0.05;
 
 # Dim inactive windows. (0.0 - 1.0)
-inactive-dim = 0.3;
+inactive-dim = 0.0;
 # Do not let dimness adjust based on window opacity.
 # inactive-dim-fixed = true;
 # Blur background of transparent windows. Bad performance with X Render backend. GLX backend is preferred.
@@ -165,7 +165,7 @@ mark-ovredir-focused = true;
 # Usually more reliable but depends on a EWMH-compliant WM.
 use-ewmh-active-win = true;
 # Detect rounded corners and treat them as rectangular when --shadow-ignore-shaped is on.
-detect-rounded-corners = true;
+detect-rounded-corners = false;
 
 # Detect _NET_WM_OPACITY on client windows, useful for window managers not passing _NET_WM_OPACITY of client windows to frame windows.
 # This prevents opacity being ignored for some apps.
@@ -188,7 +188,7 @@ vsync = "opengl-swc";
 
 # Enable DBE painting mode, intended to use with VSync to (hopefully) eliminate tearing.
 # Reported to have no effect, though.
-dbe = false;
+dbe = true;
 # Painting on X Composite overlay window. Recommended.
 paint-on-overlay = true;
 
