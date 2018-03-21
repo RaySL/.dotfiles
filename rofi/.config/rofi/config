@@ -1,33 +1,47 @@
 ! "Enabled modi" Set from: Default
-rofi.modi:                           window,drun,run,ssh
+rofi.modi: window,drun,run,ssh
 ! "Window width" Set from: Default
-! rofi.width:                          50
+! rofi.width: 20
+
 ! "Number of lines" Set from: Default
-! rofi.lines:                          15
+! rofi.lines: 20
 ! "Number of columns" Set from: Default
-! rofi.columns:                        1
+! rofi.columns: 1
+
 ! "Font to use" Set from: Default
-rofi.font:                           "Wuncon Siji" 12
+rofi.font: "Hack" 11
+
 ! "Border width" Set from: Default
-rofi.bw:                             0
+rofi.bw: 0
+
 ! "Location on screen" Set from: Default
-! rofi.location:                       0
+rofi.location: 0 
+
+! "Transparency"
+rofi.transparency: real
+
 ! "Padding" Set from: Default
 ! rofi.padding:                        5
+
 ! "Y-offset relative to location" Set from: Default
 ! rofi.yoffset:                        0
 ! "X-offset relative to location" Set from: Default
 ! rofi.xoffset:                        0
+
 ! "Always show number of lines" Set from: Default
 ! rofi.fixed-num-lines:                true
+
 ! "Whether to load and show icons" Set from: Default
 ! rofi.show-icons:                     false
+
 ! "Terminal to use" Set from: Default
 ! rofi.terminal:                       alacritty   ! previously rofi-sensible-terminal
+
 ! "Ssh client to use" Set from: Default
 ! rofi.ssh-client:                     ssh
 ! "Ssh command to execute" Set from: Default
 ! rofi.ssh-command:                    {terminal} -e {ssh-client} {host}
+
 ! "Run command to execute" Set from: Default
 ! rofi.run-command:                    {cmd}
 ! "Command to get extra run targets" Set from: Default
@@ -36,6 +50,7 @@ rofi.bw:                             0
 ! rofi.run-shell-command:              {terminal} -e {cmd}
 ! "Command executed on accep-entry-custom for window modus" Set from: Default
 ! rofi.window-command:                 xkill -id {window}
+
 ! "Theme to use to look for icons" Set from: Default
 ! rofi.drun-icon-theme:                
 ! "Disable history in run/ssh" Set from: Default
@@ -49,7 +64,7 @@ rofi.bw:                             0
 ! "Cycle through the results list" Set from: Default
 ! rofi.cycle:                          true
 ! "Enable sidebar-mode" Set from: Default
-rofi.sidebar-mode:                   false
+rofi.sidebar-mode:                   	 false
 ! "Row height (in chars)" Set from: Default
 ! rofi.eh:                             1
 ! "Enable auto select mode" Set from: Default

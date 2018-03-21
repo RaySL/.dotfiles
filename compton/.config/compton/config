@@ -110,18 +110,18 @@ shadow-ignore-shaped = true;
 #################################
 
 menu-opacity = 1;
-inactive-opacity = 0.65;
+inactive-opacity = 0.75;
 active-opacity = 1;
 frame-opacity = 1;
 inactive-opacity-override = false;
 alpha-step = 0.05;
 
 # Dim inactive windows. (0.0 - 1.0)
-inactive-dim = 0.0;
+# inactive-dim = 0.0;
 # Do not let dimness adjust based on window opacity.
-# inactive-dim-fixed = true;
+inactive-dim-fixed = false;
 # Blur background of transparent windows. Bad performance with X Render backend. GLX backend is preferred.
-# blur-background = true;
+blur-background = false;
 # Blur background of opaque windows with transparent frames as well.
 # blur-background-frame = true;
 # Do not let blur radius adjust based on window opacity.

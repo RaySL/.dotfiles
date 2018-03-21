@@ -9,8 +9,8 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #a6202020
-background-alt = #a6404040
+background = #7f202020
+background-alt = #7f202020
 ;foreground = ${xrdb:color7:#222}
 foreground = #ffefdf
 foreground-alt = #aad6ff
@@ -49,7 +49,7 @@ font-2 = "Wuncon Siji:pixelsize=10;1"
 modules-left = 
 modules-center = 
 ;mpd
-modules-right = filesystem xbacklight volume xkeyboard memory cpu battery temperature date powermenu
+modules-right = filesystem xbacklight volume wlan memory cpu battery temperature date powermenu
 
 tray-position = left
 tray-padding = 2

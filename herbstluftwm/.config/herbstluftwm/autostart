@@ -5,6 +5,7 @@ hc() {
 }
 
 xsetroot -solid '#222222'
+#hc pad 0 27 0 0 0
 hc pad 0 27 0 0 0
 hc keyunbind --all
 
@@ -13,8 +14,8 @@ Mod=Mod4   # Use the super key as the main modifier
 
 hc keybind $Mod-Shift-q quit
 hc keybind $Mod-Shift-r reload
-hc keybind $Mod-Shift-c close
-hc keybind $Mod-c       close_and_remove
+hc keybind $Mod-Shift-c close_and_remove
+hc keybind $Mod-c       close
 hc keybind $Mod-Return spawn ${TERMINAL:-alacritty}
 hc keybind $Mod-Alt-l spawn i3lock-fancy -- scrot -z
 
@@ -45,7 +46,7 @@ hc keybind $Mod-o chain .-. split right  0.6 .-. focus right
 hc keybind $Mod-Shift-u chain .-. split bottom 0.5 .-. shift_edge down
 hc keybind $Mod-Shift-o chain .-. split right  0.4 .-. shift_edge right
 
-hc keybind $Mod-Control-space split explode
+hc keybind $Mod-space split explode
 
 
 # resize bindings
@@ -107,17 +108,17 @@ hc keybind $Mod-d spawn rofi -show drun
 
 hc attr theme.tiling.reset 1
 hc attr theme.floating.reset 1
-hc set frame_border_active_color '#eeeeee'
-hc set frame_border_normal_color '#eeeeee'
-hc set frame_bg_normal_color '#eeeeee'
-hc set frame_bg_active_color '#eeeeee'
+hc set frame_border_active_color '#906060'
+hc set frame_bg_active_color '#906060'
+hc set frame_border_normal_color '#606060'
+hc set frame_bg_normal_color '#606060'
 hc set frame_bg_transparent 0
 hc set frame_border_width 0
-hc set always_show_frame 0
-hc set frame_active_opacity 0
-hc set frame_normal_opacity 0
-hc set frame_transparent_width 0
-hc set frame_gap 0
+hc set always_show_frame 1
+hc set frame_active_opacity 50%
+hc set frame_normal_opacity 50%
+hc set frame_transparent_width 16
+hc set frame_gap 16
 # Default layout is grid
 hc set default_frame_layout 3
 
@@ -156,7 +157,7 @@ hc unlock
 herbstclient set tree_style '╾│ ├└╼─┐'
 
 herbstclient chain $cmds&
-herbstclient emit_hook reload
+#herbstclient emit_hook reload
 
 
-
+compton --config $HOME/.config/compton/config &
