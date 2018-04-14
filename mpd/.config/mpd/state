@@ -1,0 +1,35 @@
+sw_volume: 100
+audio_device_state:1:default
+audio_device_state:1:my_fifo
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Veorra/Blind Talk-lc56tKwoPW8.opus
+1:Veorra/Change-D-NN0VUt1CU.opus
+2:Veorra/Color-ukBrCNmPAcg.opus
+3:Veorra/Gone-vggNhNiFo5Q.opus
+4:Veorra/Home-pi2gmyzS8kY.opus
+5:Veorra/Late Nights-SlIdXKqma3o.opus
+6:Veorra/Lay Here-Y59vIAr8rAI.opus
+7:Veorra/Nasty Freestyle-AXOn3_7nK0I.opus
+8:Veorra/Not Yet-WLSCnx3kMjI.opus
+9:Veorra/Poison-wuCpnJUrPao.opus
+10:Veorra/Run--5thY1NO5-w.opus
+11:Veorra/Save Me-yy9HAA5ODJA.opus
+12:Veorra/Secrets-32mJCG64jJQ.opus
+13:Veorra/Set Free-1rf9rGqqKuw.opus
+14:Veorra/Silk-9RTi3uGhUnc.opus
+15:Veorra/Sinner-bp-SswlOKIE.opus
+16:Veorra/Someday-4oQ3H805dm8.opus
+17:Veorra/Standby-pFwR0m08Z1A.opus
+18:Veorra/Strangers-ljYD5Xz_Epg.opus
+19:Veorra/The City-tHDmgS0ViaQ.opus
+20:Veorra/With You-xFRHrlIrbZI.opus
+playlist_end

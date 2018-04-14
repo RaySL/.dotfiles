@@ -1,0 +1,27 @@
+rofi.modi:                           window,run,ssh
+rofi.width:                          32
+rofi.lines:                          8
+rofi.columns:                        1
+rofi.font:                           hack 12
+rofi.color-normal:                   #00000000, #202020, #00000000, #202020, #cf<COLOR3>
+rofi.color-urgent:                   #00000000, #202020, #00000000, #202020, #cf<COLOR3>
+rofi.color-active:                   #00000000, #202020, #00000000, #202020, #cf<COLOR3>
+rofi.color-window:                   #cf<COLOR3>, #000000, #00000000
+rofi.bw:                             0
+rofi.location:                       0
+rofi.padding:                        20
+rofi.yoffset:                        0
+rofi.xoffset:                        0
+rofi.fixed-num-lines:                true
+rofi.terminal:                       alacritty
+rofi.ssh-client:                     ssh
+rofi.ssh-command:                    {terminal} -e {ssh-client} {host}
+rofi.run-command:                    {cmd}
+rofi.parse-hosts:                    true
+rofi.matching:                       normal
+rofi.separator-style:                none
+rofi.scrollbar-width:                0
+rofi.kb-mode-next:                   Shift+Right,Super+l
+rofi.kb-mode-previous:               Shift+Left,Super+h
+rofi.kb-row-up:                      Up,Super+k
+rofi.kb-row-down:                    Down,Super+j

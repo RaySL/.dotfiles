@@ -20,11 +20,6 @@ dimensions:
   columns: 80
   lines: 24
 
-# Scrollback buffer
-scrollback:
-  enabled: true
-  max_lines: 8096
-
 # Adds this many blank pixels of padding around the window
 # Units are physical pixels; this is not DPI aware.
 # (change requires restart)
@@ -109,25 +104,25 @@ colors:
 
   # Normal colors
   normal:
-    black:   '0x15120f'
-    red:     '0x6B5333'
-    green:   '0x6D5D48'
-    yellow:  '0x906A33'
-    blue:    '0x8D754E'
-    magenta: '0x7D8474'
-    cyan:    '0xA9905E'
-    white:   '0xdbcba6'
+    black:   '0x000000'
+    red:     '0xd54e53'
+    green:   '0xb9ca4a'
+    yellow:  '0xe6c547'
+    blue:    '0x7aa6da'
+    magenta: '0xc397d8'
+    cyan:    '0x70c0ba'
+    white:   '0xffffff'
 
   # Bright colors
   bright:
-    black:   '0x2c261f'
-    red:     '0x956d38'
-    green:   '0x997a51'
-    yellow:  '0xc78c35'
-    blue:    '0xc59b57'
-    magenta: '0xa4bb86'
-    cyan:    '0xecc069'
-    white:   '0xffffd9'
+    black:   '0x666666'
+    red:     '0xff3334'
+    green:   '0x9ec400'
+    yellow:  '0xe7c547'
+    blue:    '0x7aa6da'
+    magenta: '0xb77ee0'
+    cyan:    '0x54ced6'
+    white:   '0xffffff'
 
   # Dim colors (Optional)
   dim:
@@ -165,7 +160,6 @@ colors:
 visual_bell:
   animation: EaseOutExpo
   duration: 0
-
 
 # Key bindings
 #
@@ -278,8 +272,6 @@ mouse_bindings:
 mouse:
   double_click: { threshold: 300 }
   triple_click: { threshold: 300 }
-
-  faux_scrollback_lines: 1
 
 selection:
   semantic_escape_chars: ",│`|:\"' ()[]{}<>"

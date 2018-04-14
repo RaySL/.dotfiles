@@ -1,0 +1,1238 @@
+Mar 23 19:26 : exception: Failed to open /home/ray/.config/mpd/state: No such file or directory
+Mar 23 19:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 19:26 : update: added Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 23 19:26 : update: added Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 23 19:26 : update: added Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 23 19:26 : update: added Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 23 19:26 : update: added Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 23 19:26 : update: added Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 23 19:26 : update: added Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 23 19:26 : client: [0] opened from [::1]:52002
+Mar 23 19:26 : avahi: Service 'Music Player' successfully established.
+Mar 23 19:26 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 19:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 19:27 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 19:27 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 19:27 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 19:27 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 19:27 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 19:27 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 19:27 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 19:31 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 23 19:34 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 23 19:37 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 23 19:40 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 23 19:43 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 23 20:09 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 23 20:12 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 23 20:13 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:13 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:13 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:14 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:14 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:14 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:14 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:14 : client: [0] opened from [::1]:52348
+Mar 23 20:14 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:14 : avahi: Service 'Music Player' successfully established.
+Mar 23 20:14 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:15 : client: [1] opened from [::1]:52352
+Mar 23 20:15 : client: [1] closed
+Mar 23 20:15 : update: added Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 23 20:15 : update: added Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 23 20:15 : update: added Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 23 20:15 : update: added Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 23 20:15 : update: added Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 23 20:16 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:16 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 23 20:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:19 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 23 20:23 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 23 20:27 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 23 20:32 : client: [0] closed
+Mar 23 21:52 : client: [2] opened from [::1]:53086
+Mar 23 21:54 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 23 21:57 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 23 22:00 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 23 22:03 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 23 22:07 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 23 22:11 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 23 22:15 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 23 22:18 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 23 22:21 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 23 22:25 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 23 22:28 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 23 22:31 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 23 22:33 : client: [2] closed
+Mar 23 23:55 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 30 14:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 14:03 : client: [0] opened from [::1]:53200
+Mar 30 14:03 : avahi: Service 'Music Player' successfully established.
+Mar 30 14:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 14:04 : client: [0] closed
+Mar 30 18:45 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 30 18:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 18:46 : avahi: Service 'Music Player' successfully established.
+Mar 31 00:32 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 12:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 12:00 : avahi: Service 'Music Player' successfully established.
+Mar 31 13:02 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 13:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 13:02 : avahi: Service 'Music Player' successfully established.
+Mar 31 13:30 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 13:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 13:30 : avahi: Service 'Music Player' successfully established.
+Mar 31 16:54 : client: [0] opened from [::1]:34982
+Mar 31 16:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 16:56 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 17:00 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 17:04 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 17:08 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 17:12 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 17:16 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 17:19 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 17:23 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 17:24 : client: [0] closed
+Mar 31 17:26 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 17:27 : client: [1] opened from [::1]:35402
+Mar 31 17:29 : client: [1] closed
+Mar 31 19:44 : client: [2] opened from [::1]:35602
+Mar 31 19:45 : client: [3] opened from 127.0.0.1:56298
+Mar 31 19:46 : client: [4] opened from 127.0.0.1:56300
+Mar 31 19:46 : client: [4] closed
+Mar 31 19:46 : client: [5] opened from 127.0.0.1:56302
+Mar 31 19:46 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:46 : client: [5] closed
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Someday-4oQ3H805dm8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Someday-4oQ3H805dm8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Someday-4oQ3H805dm8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Someday-4oQ3H805dm8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : client: [6] opened from 127.0.0.1:56306
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : client: [6] closed
+Mar 31 19:47 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Someday-4oQ3H805dm8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : client: [7] opened from 127.0.0.1:56308
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : client: [7] closed
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Someday-4oQ3H805dm8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Someday-4oQ3H805dm8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Set Free-1rf9rGqqKuw.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Set Free-1rf9rGqqKuw.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Run--5thY1NO5-w.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Run--5thY1NO5-w.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Sinner-bp-SswlOKIE.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Sinner-bp-SswlOKIE.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Bridges-i_9IkZIwApk.m4a: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Bridges-i_9IkZIwApk.m4a"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Gone-vggNhNiFo5Q.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Gone-vggNhNiFo5Q.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus: No such file or directory
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Home-pi2gmyzS8kY.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Home-pi2gmyzS8kY.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Standby-pFwR0m08Z1A.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Standby-pFwR0m08Z1A.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - The City-tHDmgS0ViaQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - The City-tHDmgS0ViaQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Someday-4oQ3H805dm8.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Someday-4oQ3H805dm8.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - With You-xFRHrlIrbZI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - With You-xFRHrlIrbZI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Late Nights-SlIdXKqma3o.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Late Nights-SlIdXKqma3o.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Color-ukBrCNmPAcg.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Color-ukBrCNmPAcg.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Secrets-32mJCG64jJQ.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Secrets-32mJCG64jJQ.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Silk-9RTi3uGhUnc.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Silk-9RTi3uGhUnc.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Save Me-yy9HAA5ODJA.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Save Me-yy9HAA5ODJA.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Poison-wuCpnJUrPao.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Poison-wuCpnJUrPao.opus"
+Mar 31 19:47 : exception: Failed to decode /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : exception: nested: Failed to open /home/ray/mus/Veorra/Veorra - Change-D-NN0VUt1CU.opus: No such file or directory
+Mar 31 19:47 : player: played "Veorra/Veorra - Change-D-NN0VUt1CU.opus"
+Mar 31 19:47 : client: [8] opened from [::1]:35616
+Mar 31 19:47 : update: removing Veorra/Veorra - Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Bridges-i_9IkZIwApk.m4a
+Mar 31 19:47 : update: removing Veorra/Veorra - Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Run--5thY1NO5-w.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : update: removing Veorra/Veorra - Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : update: added Veorra/The City-tHDmgS0ViaQ.opus
+Mar 31 19:47 : update: added Veorra/Color-ukBrCNmPAcg.opus
+Mar 31 19:47 : client: [8] closed
+Mar 31 19:47 : update: added Veorra/Late Nights-SlIdXKqma3o.opus
+Mar 31 19:47 : update: added Veorra/Poison-wuCpnJUrPao.opus
+Mar 31 19:47 : update: added Veorra/Gone-vggNhNiFo5Q.opus
+Mar 31 19:47 : update: added Veorra/Sinner-bp-SswlOKIE.opus
+Mar 31 19:47 : update: added Veorra/Lay Here-Y59vIAr8rAI.opus
+Mar 31 19:47 : update: added Veorra/Set Free-1rf9rGqqKuw.opus
+Mar 31 19:47 : update: added Veorra/Silk-9RTi3uGhUnc.opus
+Mar 31 19:47 : update: added Veorra/Strangers-ljYD5Xz_Epg.opus
+Mar 31 19:47 : update: added Veorra/Nasty Freestyle-AXOn3_7nK0I.opus
+Mar 31 19:47 : update: added Veorra/Someday-4oQ3H805dm8.opus
+Mar 31 19:47 : update: added Veorra/Save Me-yy9HAA5ODJA.opus
+Mar 31 19:47 : update: added Veorra/Run--5thY1NO5-w.opus
+Mar 31 19:47 : update: added Veorra/Change-D-NN0VUt1CU.opus
+Mar 31 19:47 : update: added Veorra/Not Yet-WLSCnx3kMjI.opus
+Mar 31 19:47 : update: added Veorra/Home-pi2gmyzS8kY.opus
+Mar 31 19:47 : update: added Veorra/With You-xFRHrlIrbZI.opus
+Mar 31 19:47 : update: added Veorra/Secrets-32mJCG64jJQ.opus
+Mar 31 19:47 : update: added Veorra/Standby-pFwR0m08Z1A.opus
+Mar 31 19:47 : update: added Veorra/Blind Talk-lc56tKwoPW8.opus
+Mar 31 19:47 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:47 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:47 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:47 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:47 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:48 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:48 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:48 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:48 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Mar 31 19:48 : client: [9] opened from [::1]:35618
+Mar 31 19:48 : client: [9] closed
+Mar 31 19:49 : client: [10] opened from [::1]:35620
+Mar 31 19:49 : client: [10] closed
+Mar 31 19:50 : client: [3] closed
+Mar 31 19:50 : client: [2] closed
+Mar 31 19:50 : client: [11] opened from 127.0.0.1:56318
+Mar 31 20:00 : client: [11] closed
+Mar 31 20:00 : client: [12] opened from 127.0.0.1:56406
+Mar 31 20:01 : client: [12] closed
+Mar 31 20:01 : client: [13] opened from 127.0.0.1:56408
+Mar 31 20:02 : client: [13] closed
+Mar 31 20:02 : client: [14] opened from 127.0.0.1:56412
+Mar 31 20:03 : client: [14] closed
+Mar 31 20:03 : client: [15] opened from 127.0.0.1:56414
+Mar 31 20:04 : client: [15] closed
+Mar 31 20:04 : client: [16] opened from 127.0.0.1:56416
+Mar 31 20:13 : client: [16] closed
+Mar 31 20:13 : client: [17] opened from 127.0.0.1:56468
+Mar 31 20:15 : client: [17] closed
+Mar 31 20:15 : client: [18] opened from 127.0.0.1:56478
+Mar 31 20:16 : client: [18] closed
+Mar 31 20:16 : client: [19] opened from 127.0.0.1:56488
+Mar 31 20:24 : client: [19] closed
+Mar 31 20:24 : client: [20] opened from 127.0.0.1:56546
+Mar 31 20:24 : client: [20] closed
+Mar 31 20:24 : client: [21] opened from 127.0.0.1:56548
+Mar 31 20:28 : client: [21] closed
+Mar 31 20:28 : client: [22] opened from 127.0.0.1:56552
+Mar 31 20:33 : client: [22] closed
+Mar 31 20:33 : client: [23] opened from 127.0.0.1:56556
+Mar 31 20:41 : client: [23] closed
+Mar 31 20:41 : client: [24] opened from 127.0.0.1:56568
+Mar 31 20:45 : client: [24] closed
+Mar 31 20:45 : client: [25] opened from 127.0.0.1:56574
+Mar 31 23:10 : client: [25] closed
+Mar 31 23:10 : client: [26] opened from 127.0.0.1:57980
+Mar 31 23:12 : client: [26] closed
+Mar 31 23:12 : client: [27] opened from 127.0.0.1:57990
+Mar 31 23:17 : client: [27] closed
+Mar 31 23:17 : client: [28] opened from 127.0.0.1:57996
+Mar 31 23:19 : client: [28] closed
+Mar 31 23:19 : client: [29] opened from 127.0.0.1:57998
+Mar 31 23:21 : client: [29] closed
+Mar 31 23:21 : client: [30] opened from 127.0.0.1:58000
+Mar 31 23:25 : client: [30] closed
+Mar 31 23:25 : client: [31] opened from 127.0.0.1:58004
+Mar 31 23:28 : client: [31] closed
+Mar 31 23:28 : client: [32] opened from 127.0.0.1:58008
+Mar 31 23:36 : client: [32] closed
+Mar 31 23:36 : client: [33] opened from 127.0.0.1:58012
+Mar 31 23:38 : client: [33] closed
+Mar 31 23:38 : client: [34] opened from 127.0.0.1:58020
+Mar 31 23:40 : client: [34] closed
+Mar 31 23:40 : client: [35] opened from 127.0.0.1:58022
+Mar 31 23:41 : client: [35] closed
+Mar 31 23:41 : client: [36] opened from 127.0.0.1:58024
+Mar 31 23:41 : client: [36] closed
+Mar 31 23:41 : client: [37] opened from 127.0.0.1:58026
+Mar 31 23:51 : client: [37] closed
+Mar 31 23:51 : client: [38] opened from 127.0.0.1:58102
+Mar 31 23:52 : client: [38] closed
+Mar 31 23:52 : client: [39] opened from 127.0.0.1:58106
+Mar 31 23:53 : client: [39] closed
+Mar 31 23:53 : client: [40] opened from 127.0.0.1:58108
+Mar 31 23:54 : client: [40] closed
+Mar 31 23:54 : client: [41] opened from 127.0.0.1:58112
+Mar 31 23:55 : client: [41] closed
+Mar 31 23:55 : client: [42] opened from 127.0.0.1:58116
+Apr 01 00:01 : client: [42] closed
+Apr 01 00:01 : client: [43] opened from 127.0.0.1:58124
+Apr 01 00:02 : client: [43] closed
+Apr 01 00:02 : client: [44] opened from 127.0.0.1:58126
+Apr 01 00:02 : client: [44] closed
+Apr 01 00:02 : client: [45] opened from 127.0.0.1:58130
+Apr 01 00:05 : client: [45] closed
+Apr 01 00:05 : client: [46] opened from 127.0.0.1:58140
+Apr 01 00:05 : client: [46] closed
+Apr 01 00:05 : client: [47] opened from 127.0.0.1:58142
+Apr 01 00:06 : client: [47] closed
+Apr 01 00:06 : client: [48] opened from 127.0.0.1:58148
+Apr 01 00:07 : client: [48] closed
+Apr 01 00:07 : client: [49] opened from 127.0.0.1:58158
+Apr 01 00:09 : client: [49] closed
+Apr 01 00:09 : client: [50] opened from 127.0.0.1:58162
+Apr 01 00:15 : client: [50] closed
+Apr 01 00:15 : client: [51] opened from 127.0.0.1:58224
+Apr 01 00:27 : client: [51] closed
+Apr 01 00:27 : client: [52] opened from 127.0.0.1:58330
+Apr 01 00:30 : client: [52] closed
+Apr 01 00:30 : client: [53] opened from 127.0.0.1:58332
+Apr 01 00:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 00:35 : client: [0] opened from 127.0.0.1:34592
+Apr 01 00:36 : avahi: Service 'Music Player' successfully established.
+Apr 01 00:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 00:39 : client: [0] opened from 127.0.0.1:59480
+Apr 01 00:39 : avahi: Service 'Music Player' successfully established.
+Apr 01 00:41 : client: [0] closed
+Apr 01 00:41 : client: [1] opened from 127.0.0.1:59482
+Apr 01 00:41 : client: [1] closed
+Apr 01 00:41 : client: [2] opened from 127.0.0.1:59484
+Apr 01 00:42 : client: [2] closed
+Apr 01 00:42 : client: [3] opened from 127.0.0.1:59486
+Apr 01 00:42 : client: [3] closed
+Apr 01 00:42 : client: [4] opened from 127.0.0.1:59488
+Apr 01 00:43 : client: [4] closed
+Apr 01 00:43 : client: [5] opened from 127.0.0.1:59490
+Apr 01 00:44 : client: [5] closed
+Apr 01 00:44 : client: [6] opened from 127.0.0.1:59492
+Apr 01 00:47 : client: [6] closed
+Apr 01 00:47 : client: [7] opened from 127.0.0.1:59500
+Apr 01 11:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 11:05 : client: [0] opened from 127.0.0.1:33960
+Apr 01 11:05 : avahi: Service 'Music Player' successfully established.
+Apr 01 11:05 : client: [0] closed
+Apr 01 11:05 : client: [1] opened from 127.0.0.1:33962
+Apr 01 11:05 : client: [1] closed
+Apr 01 11:05 : client: [2] opened from 127.0.0.1:33964
+Apr 01 11:06 : client: [3] opened from [::1]:57998
+Apr 01 11:06 : client: [3] closed
+Apr 01 11:06 : client: [2] closed
+Apr 01 11:06 : client: [4] opened from 127.0.0.1:33968
+Apr 01 11:07 : client: [4] closed
+Apr 01 11:07 : client: [5] opened from 127.0.0.1:33970
+Apr 01 11:08 : client: [5] closed
+Apr 01 11:08 : client: [6] opened from 127.0.0.1:33974
+Apr 01 11:09 : client: [6] closed
+Apr 01 11:09 : client: [7] opened from 127.0.0.1:33976
+Apr 01 11:10 : client: [7] closed
+Apr 01 11:10 : client: [8] opened from 127.0.0.1:34060
+Apr 01 11:13 : client: [8] closed
+Apr 01 11:13 : client: [9] opened from 127.0.0.1:34062
+Apr 01 11:38 : client: [9] closed
+Apr 01 11:38 : client: [10] opened from 127.0.0.1:34410
+Apr 01 11:39 : client: [10] closed
+Apr 01 11:39 : client: [11] opened from 127.0.0.1:34448
+Apr 01 15:41 : client: [11] closed
+Apr 01 15:43 : client: [12] opened from 127.0.0.1:35896
+Apr 01 15:46 : client: [12] closed
+Apr 01 15:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 15:47 : avahi: Service 'Music Player' successfully established.
+Apr 01 15:47 : client: [0] opened from 127.0.0.1:60524
+Apr 01 15:49 : client: [0] closed
+Apr 01 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 15:58 : client: [0] opened from 127.0.0.1:40698
+Apr 01 15:58 : avahi: Service 'Music Player' successfully established.
+Apr 01 16:05 : client: [0] closed
+Apr 01 16:05 : client: [1] opened from 127.0.0.1:40704
+Apr 01 16:56 : client: [1] closed
+Apr 01 16:56 : client: [2] opened from 127.0.0.1:40896
+Apr 01 17:01 : client: [2] closed
+Apr 01 17:01 : client: [3] opened from 127.0.0.1:40900
+Apr 01 17:05 : client: [3] closed
+Apr 01 17:05 : client: [4] opened from 127.0.0.1:40906
+Apr 01 17:05 : client: [4] closed
+Apr 01 17:06 : client: [5] opened from 127.0.0.1:40908
+Apr 01 17:06 : client: [5] closed
+Apr 01 17:06 : client: [6] opened from 127.0.0.1:40910
+Apr 01 17:07 : client: [6] closed
+Apr 01 17:08 : client: [7] opened from 127.0.0.1:40912
+Apr 01 17:09 : client: [7] closed
+Apr 01 17:09 : client: [8] opened from 127.0.0.1:40916
+Apr 01 17:19 : client: [8] closed
+Apr 01 17:19 : client: [9] opened from 127.0.0.1:40962
+Apr 01 17:20 : client: [9] closed
+Apr 01 17:20 : client: [10] opened from 127.0.0.1:40964
+Apr 01 17:21 : client: [10] closed
+Apr 01 17:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 01 17:21 : client: [0] opened from 127.0.0.1:55066
+Apr 01 17:21 : avahi: Service 'Music Player' successfully established.
+Apr 01 17:22 : client: [0] closed
+Apr 01 17:22 : client: [1] opened from 127.0.0.1:55070
+Apr 01 17:23 : client: [1] closed
+Apr 01 17:23 : client: [2] opened from 127.0.0.1:55072
+Apr 01 17:24 : client: [2] closed
+Apr 01 17:24 : client: [3] opened from 127.0.0.1:55074
+Apr 01 17:26 : client: [3] closed
+Apr 01 17:26 : client: [4] opened from 127.0.0.1:55076
+Apr 01 17:27 : client: [4] closed
+Apr 01 17:27 : client: [5] opened from 127.0.0.1:55080
+Apr 01 17:27 : client: [5] closed
+Apr 01 17:27 : client: [6] opened from 127.0.0.1:55082
+Apr 01 17:29 : client: [6] closed
+Apr 01 17:29 : client: [7] opened from 127.0.0.1:55084
+Apr 01 17:30 : client: [7] closed
+Apr 01 17:30 : client: [8] opened from 127.0.0.1:55086
+Apr 01 17:31 : client: [8] closed
+Apr 01 17:31 : client: [9] opened from 127.0.0.1:55090
+Apr 01 17:32 : client: [9] closed
+Apr 01 17:32 : client: [10] opened from 127.0.0.1:55092
+Apr 01 17:35 : client: [10] closed
+Apr 01 17:35 : client: [11] opened from 127.0.0.1:55094
+Apr 01 17:35 : client: [11] closed
+Apr 01 17:35 : client: [12] opened from 127.0.0.1:55096
+Apr 01 17:35 : client: [12] closed
+Apr 01 17:36 : client: [13] opened from 127.0.0.1:55098
+Apr 02 10:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 10:58 : client: [0] opened from 127.0.0.1:52120
+Apr 02 10:58 : avahi: Service 'Music Player' successfully established.
+Apr 02 19:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 19:56 : avahi: Service 'Music Player' successfully established.
+Apr 02 19:56 : client: [0] opened from 127.0.0.1:35994
+Apr 02 23:35 : client: [0] closed
+Apr 03 21:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 21:50 : client: [0] opened from 127.0.0.1:35330
+Apr 03 21:50 : avahi: Service 'Music Player' successfully established.
+Apr 04 14:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 14:08 : avahi: Service 'Music Player' successfully established.
+Apr 04 14:08 : client: [0] opened from 127.0.0.1:42478
+Apr 04 16:22 : client: [0] closed
+Apr 04 16:24 : client: [1] opened from 127.0.0.1:43856
+Apr 04 18:56 : client: [1] closed
+Apr 04 18:56 : client: [2] opened from 127.0.0.1:44792
+Apr 04 18:57 : client: [2] closed
+Apr 04 18:57 : client: [3] opened from 127.0.0.1:44794
+Apr 04 18:58 : client: [3] closed
+Apr 04 18:58 : client: [4] opened from 127.0.0.1:44798
+Apr 04 18:58 : client: [4] closed
+Apr 04 18:58 : client: [5] opened from 127.0.0.1:44802
+Apr 04 19:04 : client: [5] closed
+Apr 04 19:04 : client: [6] opened from 127.0.0.1:44876
+Apr 04 19:07 : client: [6] closed
+Apr 04 19:07 : client: [7] opened from 127.0.0.1:44884
+Apr 04 19:10 : client: [7] closed
+Apr 04 19:10 : client: [8] opened from 127.0.0.1:44906
+Apr 04 19:11 : client: [8] closed
+Apr 04 19:11 : client: [9] opened from 127.0.0.1:44908
+Apr 04 19:12 : client: [9] closed
+Apr 04 19:12 : client: [10] opened from 127.0.0.1:44912
+Apr 04 19:14 : client: [10] closed
+Apr 04 19:14 : client: [11] opened from 127.0.0.1:44916
+Apr 04 19:16 : client: [11] closed
+Apr 04 19:16 : client: [12] opened from 127.0.0.1:44924
+Apr 04 19:18 : client: [12] closed
+Apr 04 19:18 : client: [13] opened from 127.0.0.1:44930
+Apr 04 19:19 : client: [13] closed
+Apr 04 19:19 : client: [14] opened from 127.0.0.1:44934
+Apr 04 19:19 : client: [14] closed
+Apr 04 19:20 : client: [15] opened from 127.0.0.1:44938
+Apr 04 19:21 : client: [15] closed
+Apr 04 19:21 : client: [16] opened from 127.0.0.1:44940
+Apr 04 19:22 : client: [16] closed
+Apr 04 19:22 : client: [17] opened from 127.0.0.1:44942
+Apr 04 19:23 : client: [17] closed
+Apr 04 19:23 : client: [18] opened from 127.0.0.1:44950
+Apr 04 19:26 : client: [18] closed
+Apr 04 19:26 : client: [19] opened from 127.0.0.1:44954
+Apr 04 19:26 : client: [19] closed
+Apr 04 19:26 : client: [20] opened from 127.0.0.1:44956
+Apr 04 19:27 : client: [20] closed
+Apr 04 19:28 : client: [21] opened from 127.0.0.1:44958
+Apr 04 19:28 : client: [21] closed
+Apr 04 19:28 : client: [22] opened from 127.0.0.1:44960
+Apr 04 19:28 : client: [22] closed
+Apr 04 19:28 : client: [23] opened from 127.0.0.1:44962
+Apr 04 22:26 : client: [23] closed
+Apr 05 14:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 14:11 : avahi: Service 'Music Player' successfully established.
+Apr 05 14:11 : client: [0] opened from 127.0.0.1:41308
+Apr 06 10:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 06 10:34 : avahi: Service 'Music Player' successfully established.
+Apr 06 10:34 : client: [0] opened from 127.0.0.1:48970
+Apr 07 14:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 14:56 : client: [0] opened from 127.0.0.1:47502
+Apr 07 14:56 : avahi: Service 'Music Player' successfully established.
+Apr 09 11:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 11:13 : client: [0] opened from 127.0.0.1:52266
+Apr 09 11:13 : avahi: Service 'Music Player' successfully established.
+Apr 10 14:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 14:25 : client: [0] opened from 127.0.0.1:34896
+Apr 10 14:25 : avahi: Service 'Music Player' successfully established.
+Apr 11 15:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 15:41 : avahi: Service 'Music Player' successfully established.
+Apr 11 15:41 : client: [0] opened from 127.0.0.1:57486
+Apr 12 14:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 14:43 : avahi: Service 'Music Player' successfully established.
+Apr 12 14:43 : client: [0] opened from 127.0.0.1:56418
+Apr 13 11:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 11:19 : client: [0] opened from 127.0.0.1:58434
+Apr 13 11:19 : avahi: Service 'Music Player' successfully established.
+Apr 13 11:38 : client: [0] closed
+Apr 13 11:44 : client: [1] opened from 127.0.0.1:58540
+Apr 13 11:45 : client: [1] closed
+Apr 13 11:45 : client: [2] opened from 127.0.0.1:58542
+Apr 13 11:46 : client: [2] closed
+Apr 13 11:46 : client: [3] opened from 127.0.0.1:58544
+Apr 13 11:46 : client: [3] closed
+Apr 13 11:46 : client: [4] opened from 127.0.0.1:58546
+Apr 13 11:47 : client: [4] closed
+Apr 13 11:47 : client: [5] opened from 127.0.0.1:58548
+Apr 13 11:48 : client: [5] closed
+Apr 13 11:48 : client: [6] opened from 127.0.0.1:58550
+Apr 13 11:48 : client: [6] closed
+Apr 13 11:48 : client: [7] opened from 127.0.0.1:58552
+Apr 13 11:49 : client: [7] closed
+Apr 13 11:49 : client: [8] opened from 127.0.0.1:58558
+Apr 13 11:50 : client: [8] closed
+Apr 13 11:50 : client: [9] opened from 127.0.0.1:58560
+Apr 13 11:50 : client: [9] closed
+Apr 13 11:50 : client: [10] opened from 127.0.0.1:58564
+Apr 13 11:51 : client: [10] closed
+Apr 13 11:51 : client: [11] opened from 127.0.0.1:58566
+Apr 13 11:52 : client: [11] closed
+Apr 13 11:52 : client: [12] opened from 127.0.0.1:58572
+Apr 13 11:52 : client: [12] closed
+Apr 13 11:52 : client: [13] opened from 127.0.0.1:58574
+Apr 13 11:53 : client: [13] closed
+Apr 13 11:53 : client: [14] opened from 127.0.0.1:58578
+Apr 13 11:54 : client: [14] closed
+Apr 13 11:54 : client: [15] opened from 127.0.0.1:58582
+Apr 13 11:54 : client: [15] closed
+Apr 13 11:54 : client: [16] opened from 127.0.0.1:58584
+Apr 13 11:56 : client: [16] closed
+Apr 13 11:56 : client: [17] opened from 127.0.0.1:58588
+Apr 13 11:59 : client: [17] closed
+Apr 13 11:59 : client: [18] opened from 127.0.0.1:58598
+Apr 13 12:00 : client: [18] closed
+Apr 13 12:00 : client: [19] opened from 127.0.0.1:58600
+Apr 13 12:00 : client: [19] closed
+Apr 13 12:00 : client: [20] opened from 127.0.0.1:58602
+Apr 13 12:00 : client: [20] closed
+Apr 13 12:00 : client: [21] opened from 127.0.0.1:58610
+Apr 13 12:03 : client: [21] closed
+Apr 13 12:03 : client: [22] opened from 127.0.0.1:58616
+Apr 13 12:25 : client: [22] closed
+Apr 13 12:25 : client: [23] opened from 127.0.0.1:58890
+Apr 13 12:40 : client: [24] opened from [::1]:47248
+Apr 13 12:40 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 13 12:40 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 13 12:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 12:41 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 13 12:44 : player: played "Veorra/Blind Talk-lc56tKwoPW8.opus"
+Apr 13 12:45 : client: [23] closed
+Apr 13 12:45 : client: [25] opened from 127.0.0.1:58900
+Apr 13 12:45 : client: [25] closed
+Apr 13 12:45 : client: [26] opened from 127.0.0.1:58902
+Apr 13 12:47 : client: [26] closed
+Apr 13 12:47 : client: [27] opened from 127.0.0.1:58904
+Apr 13 12:47 : client: [27] closed
+Apr 13 12:47 : client: [28] opened from 127.0.0.1:58908
+Apr 13 12:48 : client: [28] closed
+Apr 13 12:48 : client: [29] opened from 127.0.0.1:58910
+Apr 13 12:49 : player: played "Veorra/Change-D-NN0VUt1CU.opus"
+Apr 13 12:49 : client: [29] closed
+Apr 13 12:49 : client: [30] opened from 127.0.0.1:58912
+Apr 13 12:52 : player: played "Veorra/Poison-wuCpnJUrPao.opus"
+Apr 13 12:54 : client: [30] closed
+Apr 13 12:54 : client: [31] opened from 127.0.0.1:58956
+Apr 13 12:56 : player: played "Veorra/Run--5thY1NO5-w.opus"
+Apr 13 12:59 : player: played "Veorra/Late Nights-SlIdXKqma3o.opus"
+Apr 13 13:01 : client: [32] opened from 127.0.0.1:58966
+Apr 13 13:01 : client: [32] closed
+Apr 13 13:01 : client: [33] opened from 127.0.0.1:58968
+Apr 13 13:01 : client: [33] closed
+Apr 13 13:01 : client: [34] opened from 127.0.0.1:58970
+Apr 13 13:01 : player: played "Veorra/With You-xFRHrlIrbZI.opus"
+Apr 13 13:01 : client: [34] closed
+Apr 13 13:01 : client: [35] opened from 127.0.0.1:58972
+Apr 13 13:01 : client: [35] closed
+Apr 13 13:01 : client: [36] opened from 127.0.0.1:58974
+Apr 13 13:01 : client: [36] closed
+Apr 13 13:01 : client: [37] opened from 127.0.0.1:58976
+Apr 13 13:01 : client: [37] closed
+Apr 13 13:02 : client: [38] opened from 127.0.0.1:58980
+Apr 13 13:02 : client: [38] closed
+Apr 13 13:02 : client: [39] opened from 127.0.0.1:58982
+Apr 13 13:02 : client: [39] closed
+Apr 13 13:05 : player: played "Veorra/Color-ukBrCNmPAcg.opus"
+Apr 13 13:09 : player: played "Veorra/Gone-vggNhNiFo5Q.opus"
+Apr 13 13:12 : player: played "Veorra/Home-pi2gmyzS8kY.opus"
+Apr 13 13:15 : player: played "Veorra/Late Nights-SlIdXKqma3o.opus"
+Apr 13 13:18 : player: played "Veorra/Lay Here-Y59vIAr8rAI.opus"
+Apr 13 13:20 : player: played "Veorra/Nasty Freestyle-AXOn3_7nK0I.opus"
+Apr 13 13:24 : player: played "Veorra/Not Yet-WLSCnx3kMjI.opus"
+Apr 13 13:28 : player: played "Veorra/Poison-wuCpnJUrPao.opus"
+Apr 13 13:32 : player: played "Veorra/Run--5thY1NO5-w.opus"
+Apr 13 13:36 : player: played "Veorra/Save Me-yy9HAA5ODJA.opus"
+Apr 13 13:39 : player: played "Veorra/Secrets-32mJCG64jJQ.opus"
+Apr 13 14:20 : client: [40] opened from 127.0.0.1:59380
+Apr 13 14:20 : client: [40] closed
+Apr 13 14:20 : client: [41] opened from 127.0.0.1:59382
+Apr 13 14:20 : client: [41] closed
+Apr 13 14:28 : client: [24] closed
+Apr 13 14:29 : player: played "Veorra/Set Free-1rf9rGqqKuw.opus"
+Apr 13 14:33 : player: played "Veorra/Silk-9RTi3uGhUnc.opus"
+Apr 13 14:34 : client: [42] opened from 127.0.0.1:59454
+Apr 13 14:34 : client: [42] closed
+Apr 13 16:09 : client: [43] opened from [::1]:47858
+Apr 13 16:27 : client: [31] closed
+Apr 13 16:27 : client: [44] opened from 127.0.0.1:59744
+Apr 13 17:48 : client: [45] opened from 127.0.0.1:59838
+Apr 13 17:48 : client: [45] closed
+Apr 13 17:52 : client: [46] opened from 127.0.0.1:59844
+Apr 13 17:52 : client: [46] closed
+Apr 13 21:53 : player: played "Veorra/Sinner-bp-SswlOKIE.opus"
+Apr 13 21:57 : player: played "Veorra/Someday-4oQ3H805dm8.opus"
+Apr 13 22:00 : player: played "Veorra/Standby-pFwR0m08Z1A.opus"
+Apr 13 22:04 : player: played "Veorra/Strangers-ljYD5Xz_Epg.opus"
+Apr 13 22:07 : player: played "Veorra/The City-tHDmgS0ViaQ.opus"
+Apr 13 22:11 : player: played "Veorra/With You-xFRHrlIrbZI.opus"
+Apr 14 10:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 10:04 : avahi: Service 'Music Player' successfully established.
+Apr 14 10:04 : client: [0] opened from 127.0.0.1:35352
+Apr 14 10:06 : client: [1] opened from [::1]:59322
+Apr 14 10:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 10:08 : client: [0] closed
+Apr 14 10:08 : client: [2] opened from 127.0.0.1:35358
+Apr 14 10:09 : client: [2] closed
+Apr 14 10:09 : client: [3] opened from 127.0.0.1:35360
+Apr 14 10:10 : player: played "Veorra/Blind Talk-lc56tKwoPW8.opus"
+Apr 14 10:13 : player: played "Veorra/Change-D-NN0VUt1CU.opus"
+Apr 14 10:16 : player: played "Veorra/Color-ukBrCNmPAcg.opus"
+Apr 14 10:18 : client: [1] closed
+Apr 14 10:18 : client: [4] opened from [::1]:59332
+Apr 14 10:18 : client: [4] closed
+Apr 14 10:18 : client: [5] opened from [::1]:59334
+Apr 14 10:20 : player: played "Veorra/Gone-vggNhNiFo5Q.opus"
+Apr 14 10:22 : client: [3] closed
+Apr 14 10:22 : client: [6] opened from 127.0.0.1:35372
+Apr 14 10:23 : player: played "Veorra/Home-pi2gmyzS8kY.opus"
+Apr 14 10:24 : client: [7] opened from 127.0.0.1:35374
+Apr 14 10:24 : player: played "Veorra/Late Nights-SlIdXKqma3o.opus"
+Apr 14 10:24 : client: [7] closed
+Apr 14 10:24 : client: [8] opened from 127.0.0.1:35376
+Apr 14 10:24 : client: [8] closed
+Apr 14 10:24 : client: [9] opened from 127.0.0.1:35378
+Apr 14 10:24 : player: played "Veorra/Late Nights-SlIdXKqma3o.opus"
+Apr 14 10:24 : client: [9] closed
+Apr 14 11:31 : client: [6] closed
+Apr 14 11:31 : client: [10] opened from 127.0.0.1:35392
+Apr 14 11:32 : client: [10] closed
+Apr 14 11:32 : client: [11] opened from 127.0.0.1:35396
+Apr 14 11:32 : client: [12] opened from 127.0.0.1:35398
+Apr 14 11:32 : client: [12] closed
+Apr 14 11:35 : player: played "Veorra/Late Nights-SlIdXKqma3o.opus"
+Apr 14 11:38 : player: played "Veorra/Lay Here-Y59vIAr8rAI.opus"
+Apr 14 11:41 : player: played "Veorra/Nasty Freestyle-AXOn3_7nK0I.opus"
+Apr 14 11:45 : player: played "Veorra/Not Yet-WLSCnx3kMjI.opus"
+Apr 14 11:49 : player: played "Veorra/Poison-wuCpnJUrPao.opus"
+Apr 14 12:02 : player: played "Veorra/Run--5thY1NO5-w.opus"
+Apr 14 12:08 : player: played "Veorra/Save Me-yy9HAA5ODJA.opus"
+Apr 14 12:11 : player: played "Veorra/Secrets-32mJCG64jJQ.opus"
+Apr 14 12:14 : player: played "Veorra/Set Free-1rf9rGqqKuw.opus"
+Apr 14 12:18 : player: played "Veorra/Silk-9RTi3uGhUnc.opus"
+Apr 14 12:22 : player: played "Veorra/Sinner-bp-SswlOKIE.opus"
+Apr 14 12:25 : player: played "Veorra/Someday-4oQ3H805dm8.opus"
+Apr 14 12:29 : player: played "Veorra/Standby-pFwR0m08Z1A.opus"
+Apr 14 12:33 : player: played "Veorra/Strangers-ljYD5Xz_Epg.opus"
+Apr 14 12:36 : player: played "Veorra/The City-tHDmgS0ViaQ.opus"
+Apr 14 12:40 : player: played "Veorra/With You-xFRHrlIrbZI.opus"
+Apr 14 15:43 : client: [11] closed
+Apr 14 15:43 : client: [13] opened from 127.0.0.1:36440
+Apr 14 15:44 : client: [14] opened from 127.0.0.1:36442
+Apr 14 15:44 : client: [14] closed
+Apr 14 15:45 : client: [13] closed
+Apr 14 15:45 : client: [15] opened from 127.0.0.1:36444
+Apr 14 15:46 : client: [16] opened from 127.0.0.1:36454
+Apr 14 15:46 : player: played "Veorra/Blind Talk-lc56tKwoPW8.opus"
+Apr 14 15:46 : client: [16] closed
+Apr 14 15:49 : client: [15] closed
+Apr 14 15:49 : client: [17] opened from 127.0.0.1:36516
