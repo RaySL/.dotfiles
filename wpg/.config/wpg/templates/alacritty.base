@@ -99,8 +99,8 @@ cursor_type: Underline
 colors:
   # Default colors
   primary:
-    background: '0x202020'
-    foreground: '0xeaeaea'
+    background: '0x<COLOR0>'
+    foreground: '0x<COLOR15>'
 
   # Colors the cursor will use if `custom_cursor_colors` is true
   cursor:

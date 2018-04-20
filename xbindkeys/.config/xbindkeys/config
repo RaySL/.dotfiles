@@ -31,7 +31,7 @@
   Mod4 + minus
 
 "amixer sset Master toggle"
-	XF86AudioMute
+  XF86AudioMute
 "amixer sset Master toggle"
   Mod4 + backslash
 
@@ -41,4 +41,5 @@
 "xbacklight -dec 10"
   XF86MonBrightnessDown
 
-
+"scrot '%Y-%m-%d_$wx$h.png' -e 'mv $f ~/img/scrot/'"
+  Print

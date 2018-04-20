@@ -83,7 +83,7 @@ alias sleep="systemctl suspend"
 alias ls="exa"
 alias la="exa -a"
 alias ll="exa -lh"
-alias lt="exa -T"
+alias lt="exa -T --level=5"
 
 export XDG_CONFIG_HOME="/home/ray/.config"
 export EDITOR="vim"

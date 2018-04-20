@@ -99,8 +99,8 @@ cursor_type: Underline
 colors:
   # Default colors
   primary:
-    background: '0x202020'
-    foreground: '0xeaeaea'
+    background: '0x0c0305'
+    foreground: '0xfffddb'
 
   # Colors the cursor will use if `custom_cursor_colors` is true
   cursor:
@@ -109,25 +109,25 @@ colors:
 
   # Normal colors
   normal:
-    black:   '0x15120f'
-    red:     '0x6B5333'
-    green:   '0x6D5D48'
-    yellow:  '0x906A33'
-    blue:    '0x8D754E'
-    magenta: '0x7D8474'
-    cyan:    '0xA9905E'
-    white:   '0xdbcba6'
+    black:   '0x0c0305'
+    red:     '0x9F5329'
+    green:   '0xCE6F21'
+    yellow:  '0x9B6956'
+    blue:    '0x78837B'
+    magenta: '0xE3912D'
+    cyan:    '0xAC8D70'
+    white:   '0xe0c3a9'
 
   # Bright colors
   bright:
-    black:   '0x2c261f'
-    red:     '0x956d38'
-    green:   '0x997a51'
-    yellow:  '0xc78c35'
-    blue:    '0xc59b57'
-    magenta: '0xa4bb86'
-    cyan:    '0xecc069'
-    white:   '0xffffd9'
+    black:   '0x2d0911'
+    red:     '0xdb6828'
+    green:   '0xff8e1b'
+    yellow:  '0xd98160'
+    blue:    '0x8bba98'
+    magenta: '0xffbe28'
+    cyan:    '0xf2b67f'
+    white:   '0xfffddb'
 
   # Dim colors (Optional)
   dim:

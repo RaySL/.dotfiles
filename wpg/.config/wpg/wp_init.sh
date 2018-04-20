@@ -1,2 +1,2 @@
 #!/bin/bash
-wpg -rs Nature_Bright_5.jpg Nature_Bright_5.jpg
+wpg -rs Nature_Bright_2.jpg Nature_Bright_2.jpg

@@ -2,15 +2,26 @@
 # Documentation:
 #   qute://help/configuring.html
 #   qute://help/settings.html
-color0 = '#0f0909'
-color13 = '#f13750'
-color14 = '#a2a9ce'
-color15 = '#fcfdff'
-color9 = '#c3c3f5'
-color8 = '#281717'
-color0 = '#0f0909'
-colora = '#0b0707'
-colori = '#080505'
+color0 = '#<COLOR0>'
+color1 = '#<COLOR1>'
+color2 = '#<COLOR2>'
+color3 = '#<COLOR3>'
+color4 = '#<COLOR4>'
+color5 = '#<COLOR5>'
+color6 = '#<COLOR6>'
+color7 = '#<COLOR7>'
+color8 = '#<COLOR8>'
+color9 = '#<COLOR9>'
+color10 = '#<COLOR10>'
+color11 = '#<COLOR11>'
+color12 = '#<COLOR12>'
+color13 = '#<COLOR13>'
+color14 = '#<COLOR14>'
+color15 = '#<COLOR15>'
+colora = '#<COLORACT>'
+colori = '#<COLORIN>'
+
+background_color = '#202020'
 
 # Uncomment this to still load settings configured via autoconfig.yml
 # config.load_autoconfig()
@@ -26,10 +37,10 @@ c.auto_save.session = True
 
 # Background color of the statusbar in command mode.
 # Type: QssColor
-c.colors.statusbar.command.bg = color8
+c.colors.statusbar.command.bg = background_color
 c.colors.statusbar.command.fg = color15
 
-c.colors.statusbar.normal.bg = color8
+c.colors.statusbar.normal.bg = background_color
 c.colors.statusbar.normal.fg = color15
 
 c.colors.statusbar.url.success.http.fg = color13
@@ -40,32 +51,20 @@ c.colors.statusbar.url.error.fg = color9
 
 # Background color of unselected even tabs.
 # Type: QtColor
-c.colors.tabs.even.bg = colori
-c.colors.tabs.bar.bg = colori
+c.colors.tabs.even.bg = color11
+c.colors.tabs.odd.bg = color11
+c.colors.tabs.bar.bg = background_color
 
-# Color for the tab indicator on errors.
-# Type: QtColor
-c.colors.tabs.indicator.error = 'red'
+# Background color of selected tabs.
+c.colors.tabs.selected.even.bg = color8
+c.colors.tabs.selected.odd.bg = color8
 
-# Color gradient start for the tab indicator.
-# Type: QtColor
-c.colors.tabs.indicator.start = 'green'
+# Color for the tab indicator
+c.colors.tabs.indicator.error = background_color 
+c.colors.tabs.indicator.start = background_color
+c.colors.tabs.indicator.stop = background_color
 
-# Color gradient end for the tab indicator.
-# Type: QtColor
-c.colors.tabs.indicator.stop = 'green'
 
-# Background color of unselected odd tabs.
-# Type: QtColor
-c.colors.tabs.odd.bg = colori
-
-# Background color of selected even tabs.
-# Type: QtColor
-c.colors.tabs.selected.even.bg = colora
-
-# Background color of selected odd tabs.
-# Type: QtColor
-c.colors.tabs.selected.odd.bg = colora
 
 #c.colors.prompts.bg = colora
 #c.colors.prompts.fg = color15
@@ -95,6 +94,8 @@ c.fonts.completion.category = 'bold 11pt monospace'
 # Type: Bool
 c.content.private_browsing = False
 
+c.colors.hints.bg = color10
+c.colors.hints.fg = color7 
 c.hints.border = '0px solid #000000'
 #c.hints.find_implementation = 'javascript'
 c.hints.auto_follow_timeout = 100 

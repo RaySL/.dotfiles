@@ -1236,3 +1236,377 @@ Apr 14 15:46 : player: played "Veorra/Blind Talk-lc56tKwoPW8.opus"
 Apr 14 15:46 : client: [16] closed
 Apr 14 15:49 : client: [15] closed
 Apr 14 15:49 : client: [17] opened from 127.0.0.1:36516
+Apr 14 16:07 : client: [17] closed
+Apr 14 16:07 : client: [18] opened from 127.0.0.1:36570
+Apr 14 16:12 : client: [18] closed
+Apr 14 16:12 : client: [19] opened from 127.0.0.1:36574
+Apr 14 16:13 : client: [19] closed
+Apr 14 16:13 : client: [20] opened from 127.0.0.1:36578
+Apr 14 16:14 : client: [20] closed
+Apr 14 16:14 : client: [21] opened from 127.0.0.1:36580
+Apr 14 16:14 : client: [21] closed
+Apr 14 16:14 : client: [22] opened from 127.0.0.1:36582
+Apr 14 16:15 : client: [22] closed
+Apr 14 16:15 : client: [23] opened from 127.0.0.1:36584
+Apr 14 16:18 : client: [23] closed
+Apr 14 16:18 : client: [24] opened from 127.0.0.1:36596
+Apr 14 16:19 : client: [24] closed
+Apr 14 16:19 : client: [25] opened from 127.0.0.1:36598
+Apr 14 16:21 : client: [25] closed
+Apr 14 16:21 : client: [26] opened from 127.0.0.1:36602
+Apr 14 16:22 : client: [26] closed
+Apr 14 16:22 : client: [27] opened from 127.0.0.1:36604
+Apr 14 16:23 : client: [27] closed
+Apr 14 16:24 : client: [28] opened from 127.0.0.1:36606
+Apr 14 16:24 : client: [28] closed
+Apr 14 16:24 : client: [29] opened from 127.0.0.1:36608
+Apr 14 16:29 : player: played "Veorra/Silk-9RTi3uGhUnc.opus"
+Apr 14 16:30 : client: [29] closed
+Apr 14 16:30 : client: [30] opened from 127.0.0.1:36620
+Apr 14 16:31 : client: [30] closed
+Apr 14 16:31 : client: [31] opened from 127.0.0.1:36622
+Apr 14 16:33 : player: played "Veorra/Sinner-bp-SswlOKIE.opus"
+Apr 14 16:35 : client: [31] closed
+Apr 14 16:35 : client: [32] opened from 127.0.0.1:36650
+Apr 14 16:35 : client: [32] closed
+Apr 14 16:35 : client: [33] opened from 127.0.0.1:36654
+Apr 14 16:36 : client: [33] closed
+Apr 14 16:36 : client: [34] opened from 127.0.0.1:36658
+Apr 14 16:36 : player: played "Veorra/Someday-4oQ3H805dm8.opus"
+Apr 14 16:36 : client: [34] closed
+Apr 14 16:36 : client: [35] opened from 127.0.0.1:36660
+Apr 14 16:37 : client: [35] closed
+Apr 14 16:37 : client: [36] opened from 127.0.0.1:36662
+Apr 14 16:40 : player: played "Veorra/Standby-pFwR0m08Z1A.opus"
+Apr 14 16:42 : client: [36] closed
+Apr 14 16:42 : client: [37] opened from 127.0.0.1:36746
+Apr 14 16:43 : player: played "Veorra/Strangers-ljYD5Xz_Epg.opus"
+Apr 14 16:44 : client: [37] closed
+Apr 14 16:44 : client: [38] opened from 127.0.0.1:36748
+Apr 14 16:45 : client: [38] closed
+Apr 14 16:45 : client: [39] opened from 127.0.0.1:36752
+Apr 14 16:46 : client: [39] closed
+Apr 14 16:46 : client: [40] opened from 127.0.0.1:36770
+Apr 14 16:46 : client: [40] closed
+Apr 14 16:46 : client: [41] opened from 127.0.0.1:36772
+Apr 14 16:47 : player: played "Veorra/The City-tHDmgS0ViaQ.opus"
+Apr 14 16:48 : client: [41] closed
+Apr 14 16:48 : client: [42] opened from 127.0.0.1:36774
+Apr 14 16:50 : client: [42] closed
+Apr 14 16:50 : client: [43] opened from 127.0.0.1:36776
+Apr 14 16:50 : client: [43] closed
+Apr 14 16:50 : client: [44] opened from 127.0.0.1:36780
+Apr 14 16:51 : client: [5] closed
+Apr 14 16:51 : player: played "Veorra/With You-xFRHrlIrbZI.opus"
+Apr 14 16:51 : client: [44] closed
+Apr 14 16:51 : client: [45] opened from 127.0.0.1:36782
+Apr 14 16:53 : client: [46] opened from [::1]:60750
+Apr 14 16:53 : client: [47] opened from 127.0.0.1:36786
+Apr 14 16:53 : client: [47] closed
+Apr 14 16:57 : client: [45] closed
+Apr 14 16:57 : client: [48] opened from 127.0.0.1:36810
+Apr 14 16:57 : player: played "Veorra/The City-tHDmgS0ViaQ.opus"
+Apr 14 16:59 : client: [49] opened from 127.0.0.1:36824
+Apr 14 16:59 : player: played "Veorra/With You-xFRHrlIrbZI.opus"
+Apr 14 16:59 : client: [49] closed
+Apr 14 17:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 17:02 : client: [0] opened from 127.0.0.1:58232
+Apr 14 17:02 : avahi: Service 'Music Player' successfully established.
+Apr 14 17:03 : client: [0] closed
+Apr 14 17:03 : client: [1] opened from 127.0.0.1:58234
+Apr 14 18:20 : client: [2] opened from 127.0.0.1:58510
+Apr 14 18:20 : client: [2] closed
+Apr 14 18:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 18:24 : player: played "Veorra/With You-xFRHrlIrbZI.opus"
+Apr 14 23:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 23:10 : client: [0] opened from 127.0.0.1:46824
+Apr 14 23:10 : avahi: Service 'Music Player' successfully established.
+Apr 15 18:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 18:59 : client: [0] opened from 127.0.0.1:58098
+Apr 15 18:59 : avahi: Service 'Music Player' successfully established.
+Apr 16 11:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 11:11 : client: [0] opened from 127.0.0.1:33608
+Apr 16 11:11 : avahi: Service 'Music Player' successfully established.
+Apr 16 19:12 : client: [1] opened from [::1]:56810
+Apr 16 19:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 19:13 : client: [0] closed
+Apr 16 19:13 : client: [2] opened from 127.0.0.1:35208
+Apr 16 19:16 : player: played "Veorra/Change-D-NN0VUt1CU.opus"
+Apr 16 19:20 : player: played "Veorra/Color-ukBrCNmPAcg.opus"
+Apr 16 19:23 : player: played "Veorra/Gone-vggNhNiFo5Q.opus"
+Apr 16 19:26 : player: played "Veorra/Home-pi2gmyzS8kY.opus"
+Apr 16 19:29 : player: played "Veorra/Late Nights-SlIdXKqma3o.opus"
+Apr 16 19:32 : player: played "Veorra/Lay Here-Y59vIAr8rAI.opus"
+Apr 16 19:32 : client: [1] closed
+Apr 16 19:40 : client: [2] closed
+Apr 16 19:40 : client: [3] opened from 127.0.0.1:35390
+Apr 16 19:48 : client: [3] closed
+Apr 16 19:48 : client: [4] opened from 127.0.0.1:35468
+Apr 16 23:00 : player: played "Veorra/Nasty Freestyle-AXOn3_7nK0I.opus"
+Apr 17 16:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 16:20 : avahi: Service 'Music Player' successfully established.
+Apr 17 16:20 : client: [0] opened from 127.0.0.1:52424
+Apr 17 16:33 : client: [0] closed
+Apr 17 16:33 : client: [1] opened from 127.0.0.1:52480
+Apr 17 16:34 : client: [1] closed
+Apr 17 16:34 : client: [2] opened from 127.0.0.1:52482
+Apr 17 16:36 : client: [2] closed
+Apr 17 16:37 : client: [3] opened from 127.0.0.1:52486
+Apr 17 16:37 : client: [3] closed
+Apr 17 16:37 : client: [4] opened from 127.0.0.1:52488
+Apr 17 16:40 : client: [4] closed
+Apr 17 16:41 : client: [5] opened from 127.0.0.1:52492
+Apr 17 23:53 : player: played "Veorra/Nasty Freestyle-AXOn3_7nK0I.opus"
+Apr 18 14:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 14:41 : client: [0] opened from 127.0.0.1:36134
+Apr 18 14:41 : avahi: Service 'Music Player' successfully established.
+Apr 18 15:23 : client: [1] opened from 127.0.0.1:36490
+Apr 18 15:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 15:23 : client: [1] closed
+Apr 18 15:23 : client: [2] opened from 127.0.0.1:36492
+Apr 18 15:23 : client: [2] closed
+Apr 18 16:25 : client: [0] closed
+Apr 18 16:25 : client: [3] opened from 127.0.0.1:36580
+Apr 18 20:59 : client: [3] closed
+Apr 18 20:59 : client: [4] opened from 127.0.0.1:39206
+Apr 18 21:10 : client: [4] closed
+Apr 18 21:10 : player: played "Veorra/Nasty Freestyle-AXOn3_7nK0I.opus"
+Apr 18 21:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 21:11 : avahi: Service 'Music Player' successfully established.
+Apr 18 21:11 : client: [0] opened from 127.0.0.1:53510
+Apr 18 22:05 : client: [1] opened from 127.0.0.1:53778
+Apr 18 22:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 22:05 : client: [1] closed
+Apr 18 22:07 : player: played "Veorra/Nasty Freestyle-AXOn3_7nK0I.opus"
+Apr 18 22:11 : client: [2] opened from [::1]:35118
+Apr 18 22:11 : player: played "Veorra/Not Yet-WLSCnx3kMjI.opus"
+Apr 18 22:13 : client: [3] opened from 127.0.0.1:53830
+Apr 18 22:13 : client: [3] closed
+Apr 18 22:21 : client: [4] opened from [::1]:35246
+Apr 18 22:21 : client: [4] closed
+Apr 18 22:21 : update: added /Varien - Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.mkv
+Apr 18 22:21 : update: added Varien/Varien - Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.opus
+Apr 18 22:21 : update: added Varien/Varien - The Pink Killing Floor-SIVNpBzN8_c.ogg
+Apr 18 22:21 : update: added Varien/Varien - Dawn Will Bring Us Death-M61cn0rrroQ.opus
+Apr 18 22:21 : update: added Varien/Varien - My Prayers Have Become Ghosts-WlmmTf5W_v4.opus
+Apr 18 22:21 : update: added Varien/Varien - Hear, Smith of Heavens [Outro]-1QBtGpkk4S4.opus
+Apr 18 22:22 : player: played "Varien - Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.mkv"
+Apr 18 22:25 : player: played "Varien/Varien - Dawn Will Bring Us Death-M61cn0rrroQ.opus"
+Apr 18 22:26 : client: [5] opened from [::1]:35250
+Apr 18 22:26 : update: removing Varien/Varien - Hear, Smith of Heavens [Outro]-1QBtGpkk4S4.opus
+Apr 18 22:26 : update: removing Varien/Varien - Dawn Will Bring Us Death-M61cn0rrroQ.opus
+Apr 18 22:26 : update: removing Varien - Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.mkv
+Apr 18 22:26 : update: removing Varien/Varien - The Pink Killing Floor-SIVNpBzN8_c.ogg
+Apr 18 22:26 : update: removing Varien/Varien - My Prayers Have Become Ghosts-WlmmTf5W_v4.opus
+Apr 18 22:26 : update: removing Varien/Varien - Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.opus
+Apr 18 22:26 : update: added Varien/Hear, Smith of Heavens [Outro]-1QBtGpkk4S4.opus
+Apr 18 22:26 : update: added Varien/Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.opus
+Apr 18 22:26 : update: added Varien/Dawn Will Bring Us Death-M61cn0rrroQ.opus
+Apr 18 22:26 : update: added Varien/The Pink Killing Floor-SIVNpBzN8_c.ogg
+Apr 18 22:26 : update: added Varien/My Prayers Have Become Ghosts-WlmmTf5W_v4.opus
+Apr 18 22:26 : client: [5] closed
+Apr 18 22:29 : client: [6] opened from [::1]:35296
+Apr 18 22:29 : update: added /Lest We Resign to Oblivion-KMyr66BlOCA.opus
+Apr 18 22:29 : update: added Varien/TEVA833-4BJMJCg_wH8.opus
+Apr 18 22:29 : update: added /Dawn Will Bring Us Death-pGxmdXCFqtc.opus
+Apr 18 22:29 : client: [6] closed
+Apr 18 22:30 : player: played "Varien/Dawn Will Bring Us Death-M61cn0rrroQ.opus"
+Apr 18 22:31 : client: [7] opened from [::1]:35300
+Apr 18 22:31 : update: removing Lest We Resign to Oblivion-KMyr66BlOCA.opus
+Apr 18 22:31 : update: removing Dawn Will Bring Us Death-pGxmdXCFqtc.opus
+Apr 18 22:31 : client: [7] closed
+Apr 18 22:32 : player: played "Varien/TEVA833-4BJMJCg_wH8.opus"
+Apr 18 22:32 : client: [8] opened from [::1]:35302
+Apr 18 22:32 : client: [8] closed
+Apr 18 22:33 : client: [9] opened from [::1]:35304
+Apr 18 22:33 : client: [9] closed
+Apr 18 22:36 : player: played "Varien/TEVA833-4BJMJCg_wH8.opus"
+Apr 18 22:36 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:36 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:36 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:36 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:36 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:36 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:36 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:36 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:42 : client: [2] closed
+Apr 18 22:42 : client: [10] opened from [::1]:35324
+Apr 18 22:42 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:42 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:42 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:42 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:42 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:42 : update: updating Varien/TEVA833-4BJMJCg_wH8.opus
+Apr 18 22:42 : update: updating Varien/Hear, Smith of Heavens [Outro]-1QBtGpkk4S4.opus
+Apr 18 22:42 : update: updating Varien/Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.opus
+Apr 18 22:42 : update: updating Varien/Dawn Will Bring Us Death-M61cn0rrroQ.opus
+Apr 18 22:42 : update: updating Varien/The Pink Killing Floor-SIVNpBzN8_c.ogg
+Apr 18 22:42 : update: updating Varien/My Prayers Have Become Ghosts-WlmmTf5W_v4.opus
+Apr 18 22:42 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:43 : update: updating Varien/TEVA833-4BJMJCg_wH8.opus
+Apr 18 22:43 : update: updating Varien/Hear, Smith of Heavens [Outro]-1QBtGpkk4S4.opus
+Apr 18 22:43 : update: updating Varien/Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.opus
+Apr 18 22:43 : update: updating Varien/Dawn Will Bring Us Death-M61cn0rrroQ.opus
+Apr 18 22:43 : update: updating Varien/The Pink Killing Floor-SIVNpBzN8_c.ogg
+Apr 18 22:43 : update: updating Varien/My Prayers Have Become Ghosts-WlmmTf5W_v4.opus
+Apr 18 22:43 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:45 : update: updating Varien/TEVA833-4BJMJCg_wH8.opus
+Apr 18 22:45 : update: updating Varien/Hear, Smith of Heavens [Outro]-1QBtGpkk4S4.opus
+Apr 18 22:45 : update: updating Varien/Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.opus
+Apr 18 22:45 : update: updating Varien/Dawn Will Bring Us Death-M61cn0rrroQ.opus
+Apr 18 22:45 : update: updating Varien/The Pink Killing Floor-SIVNpBzN8_c.ogg
+Apr 18 22:45 : update: updating Varien/My Prayers Have Become Ghosts-WlmmTf5W_v4.opus
+Apr 18 22:45 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:45 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:46 : player: played "Varien/Dawn Will Bring Us Death-M61cn0rrroQ.opus"
+Apr 18 22:46 : player: played "Varien/The Pink Killing Floor-SIVNpBzN8_c.ogg"
+Apr 18 22:46 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:46 : exception: Failed to open /home/ray/.config/mpd/playlists: No such file or directory
+Apr 18 22:48 : player: played "Varien/Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.opus"
+Apr 18 22:51 : player: played "Varien/Dawn Will Bring Us Death-M61cn0rrroQ.opus"
+Apr 18 22:54 : client: [0] closed
+Apr 18 22:54 : client: [11] opened from 127.0.0.1:54050
+Apr 18 22:55 : player: played "Varien/TEVA833-4BJMJCg_wH8.opus"
+Apr 18 22:57 : client: [10] closed
+Apr 18 22:57 : client: [12] opened from [::1]:35426
+Apr 18 22:58 : client: [11] closed
+Apr 18 22:58 : client: [13] opened from 127.0.0.1:54108
+Apr 18 22:59 : player: played "Varien/My Prayers Have Become Ghosts-WlmmTf5W_v4.opus"
+Apr 18 23:04 : client: [13] closed
+Apr 18 23:04 : client: [14] opened from 127.0.0.1:54112
+Apr 18 23:06 : client: [14] closed
+Apr 18 23:06 : client: [12] closed
+Apr 18 23:06 : player: played "Varien/The Pink Killing Floor-SIVNpBzN8_c.ogg"
+No protocol specified
+xcb_connection_has_error() returned true
+Apr 18 23:06 : client: [15] opened from 127.0.0.1:54116
+Apr 18 23:08 : player: played "Varien/Hear, Smith of Heavens [Outro]-1QBtGpkk4S4.opus"
+Apr 18 23:09 : client: [15] closed
+Apr 18 23:09 : client: [16] opened from 127.0.0.1:54118
+Apr 18 23:12 : client: [16] closed
+Apr 18 23:12 : client: [17] opened from 127.0.0.1:54122
+Apr 18 23:13 : client: [17] closed
+Apr 18 23:13 : client: [18] opened from 127.0.0.1:54124
+Apr 18 23:29 : client: [18] closed
+Apr 18 23:29 : client: [19] opened from 127.0.0.1:54132
+Apr 18 23:30 : client: [19] closed
+Apr 18 23:30 : client: [20] opened from 127.0.0.1:54134
+Apr 18 23:31 : client: [20] closed
+Apr 18 23:31 : client: [21] opened from 127.0.0.1:54138
+Apr 18 23:35 : client: [21] closed
+Apr 18 23:35 : client: [22] opened from 127.0.0.1:54140
+Apr 18 23:35 : client: [22] closed
+Apr 18 23:35 : client: [23] opened from 127.0.0.1:54142
+Apr 18 23:38 : client: [23] closed
+Apr 18 23:38 : client: [24] opened from 127.0.0.1:54146
+Apr 18 23:38 : client: [24] closed
+Apr 18 23:38 : client: [25] opened from 127.0.0.1:54148
+Apr 18 23:39 : client: [25] closed
+Apr 18 23:39 : client: [26] opened from 127.0.0.1:54150
+Apr 18 23:45 : client: [26] closed
+Apr 18 23:45 : client: [27] opened from 127.0.0.1:54154
+Apr 18 23:45 : client: [27] closed
+Apr 18 23:45 : client: [28] opened from 127.0.0.1:54156
+Apr 18 23:45 : client: [28] closed
+Apr 18 23:45 : client: [29] opened from 127.0.0.1:54158
+Apr 18 23:45 : client: [29] closed
+Apr 18 23:45 : client: [30] opened from 127.0.0.1:54160
+Apr 18 23:46 : client: [30] closed
+Apr 18 23:46 : client: [31] opened from 127.0.0.1:54164
+Apr 18 23:46 : client: [31] closed
+Apr 18 23:46 : client: [32] opened from 127.0.0.1:54166
+Apr 18 23:48 : client: [32] closed
+Apr 18 23:48 : client: [33] opened from 127.0.0.1:54168
+Apr 18 23:48 : client: [33] closed
+Apr 18 23:48 : client: [34] opened from 127.0.0.1:54170
+Apr 18 23:50 : client: [34] closed
+Apr 18 23:50 : client: [35] opened from 127.0.0.1:54172
+Apr 18 23:51 : client: [35] closed
+Apr 18 23:51 : client: [36] opened from 127.0.0.1:54176
+Apr 18 23:55 : client: [36] closed
+Apr 18 23:55 : client: [37] opened from 127.0.0.1:54178
+Apr 18 23:55 : client: [37] closed
+Apr 18 23:55 : client: [38] opened from 127.0.0.1:54180
+Apr 18 23:55 : client: [38] closed
+Apr 18 23:55 : client: [39] opened from 127.0.0.1:54182
+Apr 18 23:57 : client: [39] closed
+Apr 18 23:57 : client: [40] opened from 127.0.0.1:54186
+Apr 18 23:57 : client: [40] closed
+Apr 18 23:57 : client: [41] opened from 127.0.0.1:54188
+Apr 19 15:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 19 15:46 : client: [0] opened from 127.0.0.1:60188
+Apr 19 15:46 : avahi: Service 'Music Player' successfully established.
+Apr 19 19:25 : client: [1] opened from [::1]:45496
+Apr 19 19:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 19 19:27 : player: played "Varien/Lest We Resign to Oblivion [Intro]-W1hQkz-r87k.opus"
+Apr 19 19:30 : player: played "Varien/Dawn Will Bring Us Death-M61cn0rrroQ.opus"
+Apr 19 19:34 : client: [0] closed
+Apr 19 19:34 : client: [2] opened from 127.0.0.1:33116
+Apr 19 19:34 : client: [2] closed
+Apr 19 19:34 : player: played "Varien/TEVA833-4BJMJCg_wH8.opus"
+Apr 19 19:34 : client: [3] opened from 127.0.0.1:33118
+Apr 19 19:37 : client: [3] closed
+Apr 19 19:37 : client: [4] opened from 127.0.0.1:33124
+Apr 19 19:39 : player: played "Varien/My Prayers Have Become Ghosts-WlmmTf5W_v4.opus"
+Apr 19 19:39 : client: [4] closed
+Apr 19 19:39 : client: [5] opened from 127.0.0.1:33126
+Apr 19 19:42 : client: [5] closed
+Apr 19 19:42 : client: [6] opened from 127.0.0.1:33140
+Apr 19 19:45 : player: played "Varien/The Pink Killing Floor-SIVNpBzN8_c.ogg"
+Apr 19 19:47 : client: [6] closed
+Apr 19 19:47 : client: [7] opened from 127.0.0.1:33144
+Apr 19 19:47 : client: [7] closed
+Apr 19 19:47 : client: [8] opened from 127.0.0.1:33146
+Apr 19 19:48 : player: played "Varien/Hear, Smith of Heavens [Outro]-1QBtGpkk4S4.opus"
+Apr 19 19:48 : client: [8] closed
+Apr 19 19:48 : client: [9] opened from 127.0.0.1:33148
+Apr 19 19:48 : client: [9] closed
+Apr 19 19:48 : client: [10] opened from 127.0.0.1:33150
+Apr 19 19:49 : client: [10] closed
+Apr 19 19:49 : client: [11] opened from 127.0.0.1:33152
+Apr 19 19:49 : client: [11] closed
+Apr 19 19:49 : client: [12] opened from 127.0.0.1:33154
+Apr 19 19:52 : client: [12] closed
+Apr 19 19:52 : client: [13] opened from 127.0.0.1:33166
+Apr 19 19:52 : client: [13] closed
+Apr 19 19:52 : client: [14] opened from 127.0.0.1:33168
+Apr 19 19:55 : client: [14] closed
+Apr 19 19:55 : client: [15] opened from 127.0.0.1:33170
+Apr 19 19:56 : client: [15] closed
+Apr 19 19:56 : client: [16] opened from 127.0.0.1:33172
+Apr 19 19:56 : client: [16] closed
+Apr 19 19:56 : client: [17] opened from 127.0.0.1:33176
+Apr 19 19:56 : client: [17] closed
+Apr 19 19:56 : client: [18] opened from 127.0.0.1:33178
+Apr 19 19:56 : client: [18] closed
+Apr 19 19:56 : client: [19] opened from 127.0.0.1:33180
+Apr 19 19:59 : client: [19] closed
+Apr 19 19:59 : client: [20] opened from 127.0.0.1:33184
+Apr 19 19:59 : client: [20] closed
+Apr 19 19:59 : client: [21] opened from 127.0.0.1:33186
+Apr 19 20:09 : client: [21] closed
+Apr 19 20:09 : client: [1] closed
+Apr 19 20:17 : client: [22] opened from 127.0.0.1:33196
+Apr 19 20:17 : client: [22] closed
+Apr 19 20:17 : client: [23] opened from 127.0.0.1:33198
+Apr 19 20:17 : client: [23] closed
+Apr 19 20:17 : client: [24] opened from 127.0.0.1:33200
+Apr 19 20:17 : client: [24] closed
+Apr 19 20:17 : client: [25] opened from 127.0.0.1:33202
+Apr 19 20:19 : client: [25] closed
+Apr 19 20:19 : client: [26] opened from 127.0.0.1:33204
+Apr 19 20:19 : client: [26] closed
+Apr 19 20:19 : client: [27] opened from 127.0.0.1:33206
+Apr 19 20:22 : client: [27] closed
+Apr 19 20:22 : client: [28] opened from 127.0.0.1:33210
+Apr 20 12:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 20 12:43 : avahi: Service 'Music Player' successfully established.
+Apr 20 12:43 : client: [0] opened from 127.0.0.1:44242
+Apr 20 14:46 : client: [0] closed
+Apr 20 14:46 : client: [1] opened from 127.0.0.1:44634
+Apr 20 14:46 : client: [1] closed
+Apr 20 14:46 : client: [2] opened from 127.0.0.1:44636
+Apr 20 14:47 : client: [2] closed
+Apr 20 14:47 : client: [3] opened from 127.0.0.1:44638
+Apr 20 14:47 : client: [3] closed
+Apr 20 14:48 : client: [4] opened from 127.0.0.1:44640
